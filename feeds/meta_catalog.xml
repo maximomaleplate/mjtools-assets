@@ -4,7 +4,7 @@
     <title>MJ TOOLS - Catálogo Oficial Meta Commerce</title>
     <link>https://mjtools.com.ar</link>
     <description>Catálogo oficial sincronizado desde Tiendanube para Facebook, Instagram y Meta Ads.</description>
-    <lastBuildDate>Sat, 28 Nov 2026 16:58:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 18:15:05 +0000</lastBuildDate>
     <item>
       <g:id>15357</g:id>
       <g:item_group_id>346823128</g:item_group_id>
@@ -6255,8 +6255,8 @@ Uso: Kit para reparación o diagnóstico rápido en taller mecánico.</g:descrip
       <g:additional_image_link>https://dcdn-us.mitiendanube.com/stores/005/441/529/products/d_777266-mla111917281424_062026-o-b2113081feab974aeb17858558769884-1024-1024.webp</g:additional_image_link>
       <g:additional_image_link>https://dcdn-us.mitiendanube.com/stores/005/441/529/products/d_906741-mla111916212248_062026-o-7fb7fe1cd0d1c866b617858558772006-1024-1024.webp</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:inventory>0</g:inventory>
+      <g:availability>in stock</g:availability>
+      <g:inventory>50</g:inventory>
       <g:price>10000.00 ARS</g:price>
       <g:brand>Ruhlmann</g:brand>
       <g:mpn>taponPinchazo</g:mpn>
