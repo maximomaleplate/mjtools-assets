@@ -4,7 +4,7 @@
     <title>MJ TOOLS - Catálogo Oficial Meta Commerce</title>
     <link>https://mjtools.com.ar</link>
     <description>Catálogo oficial sincronizado desde Tiendanube para Facebook, Instagram y Meta Ads.</description>
-    <lastBuildDate>Sat, 28 Nov 2026 18:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 20:15:06 +0000</lastBuildDate>
     <item>
       <g:id>15357</g:id>
       <g:item_group_id>346823128</g:item_group_id>
@@ -3291,7 +3291,7 @@ Compatible con: Encastre universal de 1/4"3</g:description>
       <g:additional_image_link>https://dcdn-us.mitiendanube.com/stores/005/441/529/products/d_699117-mla77272323981_062024-o-74313d50c4e1c2fb4217840366959327-1024-1024.jpg</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:inventory>302</g:inventory>
+      <g:inventory>300</g:inventory>
       <g:price>14800.00 ARS</g:price>
       <g:brand>Ruhlmann</g:brand>
       <g:mpn>34106</g:mpn>
@@ -6225,8 +6225,8 @@ Compatible con: Cricks y llaves con encastre estándar (1/4", 3/8", 1/2")</g:des
       <g:additional_image_link>https://dcdn-us.mitiendanube.com/stores/005/441/529/products/d_887421-mla109937148056_042026-o-f26ae30c93ed6b837c17858558736317-1024-1024.jpg</g:additional_image_link>
       <g:additional_image_link>https://dcdn-us.mitiendanube.com/stores/005/441/529/products/d_910476-mla109937207630_042026-o-782b31d52e8bcac49017858558743759-1024-1024.webp</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:inventory>1</g:inventory>
+      <g:availability>out of stock</g:availability>
+      <g:inventory>0</g:inventory>
       <g:price>16000.00 ARS</g:price>
       <g:brand>Ruhlmann</g:brand>
       <g:mpn>2705</g:mpn>
